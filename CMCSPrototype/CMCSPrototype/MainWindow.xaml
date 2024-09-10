@@ -1,0 +1,17 @@
+﻿<Window x:Class="CMCSPrototype.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Contract Monthly Claim System" Height="350" Width="525">
+    <Grid Background="White">
+        <TextBlock Text="Contract Monthly Claim System" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,10,0,0"/>
+
+        <!-- Frame for navigation -->
+        <Frame x:Name="MainFrame" Margin="10,50,10,10" Background="White"/>
+
+        <!-- Button to navigate to Lecturer Dashboard -->
+        <Button Content="Lecturer Dashboard" Width="200" Height="50" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="50,0,0,10" Click="OpenLecturerDashboard_Click"/>
+
+        <!-- Button to navigate to Coordinator Dashboard -->
+        <Button Content="Coordinator Dashboard" Width="200" Height="50" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,50,10" Click="OpenCoordinatorDashboard_Click"/>
+    </Grid>
+</Window>
