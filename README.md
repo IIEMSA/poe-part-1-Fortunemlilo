@@ -18,3 +18,6 @@ The system has two main interfaces:
    - **View Pending Claims**: Programme Coordinators and Academic Managers can view pending claims that need to be approved or rejected.
    - **Approve/Reject Claims**: They can take action on each claim (approve or reject) and track the claim's status.
    - **View Approved Claims**: The dashboard also displays all the claims that have been approved.
+
+## Githug link
+https://github.com/IIEMSA/poe-part-1-Fortunemlilo.git
