@@ -19,5 +19,8 @@ The system has two main interfaces:
    - **Approve/Reject Claims**: They can take action on each claim (approve or reject) and track the claim's status.
    - **View Approved Claims**: The dashboard also displays all the claims that have been approved.
 
+## Conclusion
+The Contract Monthly Claim System is designed to make the claim submission and approval process more efficient and transparent. With this prototype, both lecturers and coordinators have user-friendly interfaces that allow them to perform their tasks seamlessly.
+
 ## Githug link
 https://github.com/IIEMSA/poe-part-1-Fortunemlilo.git
